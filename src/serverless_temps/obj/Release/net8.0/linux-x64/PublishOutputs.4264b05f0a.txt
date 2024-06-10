@@ -1,0 +1,14 @@
+/Users/enmanuelcruz/Projects/serverless_temps/src/serverless_temps/bin/Release/net8.0/publish/serverless_temps
+/Users/enmanuelcruz/Projects/serverless_temps/src/serverless_temps/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/enmanuelcruz/Projects/serverless_temps/src/serverless_temps/bin/Release/net8.0/publish/appsettings.json
+/Users/enmanuelcruz/Projects/serverless_temps/src/serverless_temps/bin/Release/net8.0/publish/aws-lambda-tools-defaults.json
+/Users/enmanuelcruz/Projects/serverless_temps/src/serverless_temps/bin/Release/net8.0/publish/serverless_temps.deps.json
+/Users/enmanuelcruz/Projects/serverless_temps/src/serverless_temps/bin/Release/net8.0/publish/serverless_temps.runtimeconfig.json
+/Users/enmanuelcruz/Projects/serverless_temps/src/serverless_temps/bin/Release/net8.0/publish/serverless_temps.pdb
+/Users/enmanuelcruz/Projects/serverless_temps/src/serverless_temps/bin/Release/net8.0/publish/Amazon.Lambda.APIGatewayEvents.dll
+/Users/enmanuelcruz/Projects/serverless_temps/src/serverless_temps/bin/Release/net8.0/publish/Amazon.Lambda.ApplicationLoadBalancerEvents.dll
+/Users/enmanuelcruz/Projects/serverless_temps/src/serverless_temps/bin/Release/net8.0/publish/Amazon.Lambda.AspNetCoreServer.dll
+/Users/enmanuelcruz/Projects/serverless_temps/src/serverless_temps/bin/Release/net8.0/publish/Amazon.Lambda.Core.dll
+/Users/enmanuelcruz/Projects/serverless_temps/src/serverless_temps/bin/Release/net8.0/publish/Amazon.Lambda.Logging.AspNetCore.dll
+/Users/enmanuelcruz/Projects/serverless_temps/src/serverless_temps/bin/Release/net8.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/enmanuelcruz/Projects/serverless_temps/src/serverless_temps/bin/Release/net8.0/publish/serverless_temps.dll
